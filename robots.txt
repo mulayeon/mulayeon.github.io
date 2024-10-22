@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://mulayeon.github.io/mulayeon.txt.gz
+Sitemap: https://mulayeon.github.io/app/mulayeon.txt.gz
+Sitemap: https://mulayeon.github.io/assets/mulayeon.txt.gz
+Sitemap: https://mulayeon.github.io/css/mulayeon.txt.gz
+Sitemap: https://mulayeon.github.io/includes/mulayeon.txt.gz
+Sitemap: https://mulayeon.github.io/item/mulayeon.txt.gz
+Sitemap: https://mulayeon.github.io/src/mulayeon.txt.gz
